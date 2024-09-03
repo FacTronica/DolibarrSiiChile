@@ -108,6 +108,7 @@ Link Video: https://www.youtube.com/watch?v=GtdIF310izk
 08.-En codigo digitar fecha_resolucion  
 09.-En tipo digitar varchar(10)  
 10.-Pulsar en Añadir o Create  
+Link Video: https://www.youtube.com/watch?v=5HCaoELj0Qw
 
 ### 06.-Crear propiedad número de resolución
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
@@ -124,91 +125,99 @@ Link Video: https://www.youtube.com/watch?v=h_O7cTAecNQ&
 
 ### 07.-Crear propiedad Código de Actividad
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
-02.-Seleccionar el módulo SII Chile  
+02.-Seleccionar el módulo Factronica  
 03.-Click en la pestaña Objetos  
 04.-Click en el objeto Contribuyente  
 05.-Bajar a propiedades del objeto  
-06.-En etiqueta digitar Código Actividad  
-07.-En codigo digitar codigo_actividad  
-08.-En tipo digitar varchar(10)  
-09.-Pulsar en Añadir o Create  
+06.-Pulsar Icono + para crear nueva Propiedad 
+07.-En etiqueta digitar Código Actividad  
+08.-En codigo digitar codigo_actividad  
+09.-En tipo digitar varchar(10)  
+10.-Pulsar en Añadir o Create  
 
 ### 08.-Crear propiedad Código de Sucursal SII
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
-02.-Seleccionar el módulo SII Chile  
+02.-Seleccionar el módulo Factronica  
 03.-Click en la pestaña Objetos  
 04.-Click en el objeto Contribuyente  
 05.-Bajar a propiedades del objeto  
-06.-En etiqueta digitar Código Sucursal SII  
-07.-En codigo digitar codigo_sucursalsii  
-08.-En tipo digitar varchar(10)  
-09.-Pulsar en Añadir o Create  
+06.-Pulsar Icono + para crear nueva Propiedad 
+07.-En etiqueta digitar Código Sucursal SII  
+08.-En codigo digitar codigo_sucursalsii  
+09.-En tipo digitar varchar(10)  
+10.-Pulsar en Añadir o Create  
 
 ### 09.-Crear propiedad Dirección Regional SII
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
-02.-Seleccionar el módulo SII Chile  
+02.-Seleccionar el módulo Factronica  
 03.-Click en la pestaña Objetos  
 04.-Click en el objeto Contribuyente  
-04.-Bajar a propiedades del objeto  
-05.-En etiqueta digitar Dirección Regional  
-06.-En codigo digitar direccion_regional  
-07.-En tipo digitar varchar(20)  
-08.-Pulsar en Añadir  
+05.-Bajar a propiedades del objeto  
+06.-Pulsar Icono + para crear nueva Propiedad 
+07.-En etiqueta digitar Dirección Regional  
+08.-En codigo digitar direccion_regional  
+09.-En tipo digitar varchar(20)  
+10.-Pulsar en Añadir  
 
 ### 10.-Crear propiedad Rut Representante Legal
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
-02.-Seleccionar el módulo SII Chile  
+02.-Seleccionar el módulo Factronica  
 03.-Click en la pestaña Objetos  
 04.-Click en el objeto Contribuyente  
 05.-Bajar a propiedades del objeto  
-06.-En etiqueta digitar  Rut Representante Legal  
-07.-En codigo digitar rut_replegal  
-08.-En tipo digitar varchar(10)  
-09.-Pulsar en Añadir  
+06.-Pulsar Icono + para crear nueva Propiedad 
+07.-En etiqueta digitar  Rut Representante Legal  
+08.-En codigo digitar rut_replegal  
+09.-En tipo digitar varchar(10)  
+10.-Pulsar en Añadir  
 
 ### 11.-Crear propiedad Razón Social
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
-02.-Seleccionar el módulo SII Chile  
+02.-Seleccionar el módulo Factronica  
 03.-Click en la pestaña Objetos  
 04.-Click en el objeto Contribuyente  
 05.-Bajar a propiedades del objeto  
-06.-En etiqueta digitar Razón Social  
-07.-En codigo digitar razon_social  
-08.-En tipo digitar varchar(200)  
-09.-Pulsar en Añadir  
+06.-Pulsar Icono + para crear nueva Propiedad 
+07.-En etiqueta digitar Razón Social  
+08.-En codigo digitar razon_social  
+09.-En tipo digitar varchar(200)  
+10.-Pulsar en Añadir  
 
 ### 12.-Crear propiedad Giro
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
-02.-Seleccionar el módulo SII Chile  
+02.-Seleccionar el módulo Factronica  
 03.-Click en la pestaña Objetos  
 04.-Click en el objeto Contribuyente  
 05.-Bajar a propiedades del objeto  
-06.-En etiqueta digitar Giro  
-07.-En codigo digitar giro  
-08.-En tipo digitar varchar(200)  
-09.-Pulsar en Añadir  
+06.-Pulsar Icono + para crear nueva Propiedad 
+07.-En etiqueta digitar Giro  
+08.-En codigo digitar giro  
+09.-En tipo digitar varchar(200)  
+10.-Pulsar en Añadir  
 
 ### 13.-Crear propiedad Dirección
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
-02.-Seleccionar el módulo SII Chile  
+02.-Seleccionar el módulo Factronica  
 03.-Click en la pestaña Objetos  
 04.-Click en el objeto Contribuyente  
 05.-Bajar a propiedades del objeto  
-06.-En etiqueta digitar Dirección  
-07.-En codigo digitar direccion  
-08.-En tipo digitar varchar(200)  
-09.-Pulsar en Añadir  
+06.-Pulsar Icono + para crear nueva Propiedad 
+07.-En etiqueta digitar Dirección  
+08.-En codigo digitar direccion  
+09.-En tipo digitar varchar(200)  
+10.-Pulsar en Añadir  
 
 ### 14.-Crear propiedad Ciudad
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
-02.-Seleccionar el módulo SII Chile  
+02.-Seleccionar el módulo Factronica  
 03.-Click en la pestaña Objetos  
 04.-Click en el objeto Contribuyente  
 05.-Bajar a propiedades del objeto  
-06.-En etiqueta digitar Ciudad  
-07.-En codigo digitar ciudad  
-08.-En tipo digitar varchar(100)  
-09.-Pulsar en Añadir  
+06.-Pulsar Icono + para crear nueva Propiedad 
+07.-En etiqueta digitar Ciudad  
+08.-En codigo digitar ciudad  
+09.-En tipo digitar varchar(100)  
+10.-Pulsar en Añadir  
 
 ## 16.-Crear Objeto Certificado Digital
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
