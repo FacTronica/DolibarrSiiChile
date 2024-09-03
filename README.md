@@ -147,6 +147,7 @@ Link video: https://www.youtube.com/watch?v=RocFsxncfDY
 08.-En codigo digitar codigo_sucursalsii  
 09.-En tipo digitar varchar(10)  
 10.-Pulsar en Añadir o Create  
+Link video: https://www.youtube.com/watch?v=cqEqbgoY_u0
 
 ### 09.-Crear propiedad Dirección Regional SII
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
