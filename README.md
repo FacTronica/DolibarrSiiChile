@@ -134,6 +134,7 @@ Link Video: https://www.youtube.com/watch?v=h_O7cTAecNQ&
 08.-En codigo digitar codigo_actividad  
 09.-En tipo digitar varchar(10)  
 10.-Pulsar en Añadir o Create  
+Link video: https://www.youtube.com/watch?v=RocFsxncfDY
 
 ### 08.-Crear propiedad Código de Sucursal SII
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
