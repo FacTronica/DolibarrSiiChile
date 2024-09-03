@@ -103,21 +103,24 @@ Link Video: https://www.youtube.com/watch?v=GtdIF310izk
 03.-Click en la pestaña Objetos  
 04.-Click en el objeto Contribuyente  
 05.-Bajar a propiedades del objeto  
-06.-En etiqueta digitar Fecha Resolución  
-07.-En codigo digitar fecha_resolucion  
-08.-En tipo digitar varchar(10)  
-09.-Pulsar en Añadir o Create  
+06.-Pulsar Icono + para crear nueva Propiedad  
+07.-En etiqueta digitar Fecha Resolución  
+08.-En codigo digitar fecha_resolucion  
+09.-En tipo digitar varchar(10)  
+10.-Pulsar en Añadir o Create  
 
 ### 06.-Crear propiedad número de resolución
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
-02.-Seleccionar el módulo SII Chile  
+02.-Seleccionar el módulo Factronica  
 03.-Click en la pestaña Objetos  
 04.-Click en el objeto Contribuyente  
 05.-Bajar a propiedades del objeto  
-06.-En etiqueta digitar Número Resolución  
-07.-En codigo digitar numres  
-08.-En tipo digitar integer(3)  
-09.-Pulsar en Añadir o Create  
+06.-Pulsar Icono + para crear nueva Propiedad 
+07.-En etiqueta digitar Número Resolución  
+08.-En codigo digitar numres  
+09.-En tipo digitar integer(3)  
+10.-Pulsar en Añadir o Create  
+Link Video: https://youtu.be/h_O7cTAecNQ
 
 ### 07.-Crear propiedad Código de Actividad
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
