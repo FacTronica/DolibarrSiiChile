@@ -116,7 +116,7 @@ Link Video: https://www.youtube.com/watch?v=5HCaoELj0Qw
 03.-Click en la pestaña Objetos  
 04.-Click en el objeto Contribuyente  
 05.-Bajar a propiedades del objeto  
-06.-Pulsar Icono + para crear nueva Propiedad 
+06.-Pulsar Icono + para crear nueva Propiedad  
 07.-En etiqueta digitar Número Resolución  
 08.-En codigo digitar numres  
 09.-En tipo digitar integer(3)  
