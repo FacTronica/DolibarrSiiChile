@@ -129,7 +129,7 @@ Link Video: https://www.youtube.com/watch?v=h_O7cTAecNQ&
 03.-Click en la pestaña Objetos  
 04.-Click en el objeto Contribuyente  
 05.-Bajar a propiedades del objeto  
-06.-Pulsar Icono + para crear nueva Propiedad 
+06.-Pulsar Icono + para crear nueva Propiedad  
 07.-En etiqueta digitar Código Actividad  
 08.-En codigo digitar codigo_actividad  
 09.-En tipo digitar varchar(10)  
@@ -141,7 +141,7 @@ Link Video: https://www.youtube.com/watch?v=h_O7cTAecNQ&
 03.-Click en la pestaña Objetos  
 04.-Click en el objeto Contribuyente  
 05.-Bajar a propiedades del objeto  
-06.-Pulsar Icono + para crear nueva Propiedad 
+06.-Pulsar Icono + para crear nueva Propiedad  
 07.-En etiqueta digitar Código Sucursal SII  
 08.-En codigo digitar codigo_sucursalsii  
 09.-En tipo digitar varchar(10)  
@@ -153,7 +153,7 @@ Link Video: https://www.youtube.com/watch?v=h_O7cTAecNQ&
 03.-Click en la pestaña Objetos  
 04.-Click en el objeto Contribuyente  
 05.-Bajar a propiedades del objeto  
-06.-Pulsar Icono + para crear nueva Propiedad 
+06.-Pulsar Icono + para crear nueva Propiedad  
 07.-En etiqueta digitar Dirección Regional  
 08.-En codigo digitar direccion_regional  
 09.-En tipo digitar varchar(20)  
@@ -165,7 +165,7 @@ Link Video: https://www.youtube.com/watch?v=h_O7cTAecNQ&
 03.-Click en la pestaña Objetos  
 04.-Click en el objeto Contribuyente  
 05.-Bajar a propiedades del objeto  
-06.-Pulsar Icono + para crear nueva Propiedad 
+06.-Pulsar Icono + para crear nueva Propiedad  
 07.-En etiqueta digitar  Rut Representante Legal  
 08.-En codigo digitar rut_replegal  
 09.-En tipo digitar varchar(10)  
@@ -177,7 +177,7 @@ Link Video: https://www.youtube.com/watch?v=h_O7cTAecNQ&
 03.-Click en la pestaña Objetos  
 04.-Click en el objeto Contribuyente  
 05.-Bajar a propiedades del objeto  
-06.-Pulsar Icono + para crear nueva Propiedad 
+06.-Pulsar Icono + para crear nueva Propiedad  
 07.-En etiqueta digitar Razón Social  
 08.-En codigo digitar razon_social  
 09.-En tipo digitar varchar(200)  
@@ -189,7 +189,7 @@ Link Video: https://www.youtube.com/watch?v=h_O7cTAecNQ&
 03.-Click en la pestaña Objetos  
 04.-Click en el objeto Contribuyente  
 05.-Bajar a propiedades del objeto  
-06.-Pulsar Icono + para crear nueva Propiedad 
+06.-Pulsar Icono + para crear nueva Propiedad  
 07.-En etiqueta digitar Giro  
 08.-En codigo digitar giro  
 09.-En tipo digitar varchar(200)  
@@ -201,7 +201,7 @@ Link Video: https://www.youtube.com/watch?v=h_O7cTAecNQ&
 03.-Click en la pestaña Objetos  
 04.-Click en el objeto Contribuyente  
 05.-Bajar a propiedades del objeto  
-06.-Pulsar Icono + para crear nueva Propiedad 
+06.-Pulsar Icono + para crear nueva Propiedad  
 07.-En etiqueta digitar Dirección  
 08.-En codigo digitar direccion  
 09.-En tipo digitar varchar(200)  
@@ -213,7 +213,7 @@ Link Video: https://www.youtube.com/watch?v=h_O7cTAecNQ&
 03.-Click en la pestaña Objetos  
 04.-Click en el objeto Contribuyente  
 05.-Bajar a propiedades del objeto  
-06.-Pulsar Icono + para crear nueva Propiedad 
+06.-Pulsar Icono + para crear nueva Propiedad  
 07.-En etiqueta digitar Ciudad  
 08.-En codigo digitar ciudad  
 09.-En tipo digitar varchar(100)  
