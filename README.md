@@ -85,7 +85,7 @@
 03.-Pulsar en Objetos  
 04.-Pulsar en + Nuevo Objeto  
 05.-En clave de objeto digitar Contribuyente  
-06.-Poner ticket en Quiero administrar los permisos en este objeto
+06.-Poner ticket en Quiero administrar los permisos en este objeto  
 07.-Pulsar Generar Código  
 08.-Click en el objeto Contribuyente  
 09.-Eliminar la propiedad qty  
@@ -95,6 +95,7 @@
 13.-Eliminar la propiedad status  
 14.-Eliminar la propiedad label  
 15.-Eliminar la propiedad ref  
+Link Video: https://www.youtube.com/watch?v=GtdIF310izk
   
 ### 05.-Crear propiedad fecha de resolución
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
