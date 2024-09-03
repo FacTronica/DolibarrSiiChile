@@ -181,7 +181,7 @@ Link video: https://www.youtube.com/watch?v=RocFsxncfDY
 06.-Pulsar Icono + para crear nueva Propiedad  
 07.-En etiqueta digitar Razón Social  
 08.-En codigo digitar razon_social  
-09.-En tipo digitar varchar(200)  
+09.-En tipo digitar varchar(100)  
 10.-Pulsar en Añadir  
 
 ### 12.-Crear propiedad Giro
@@ -193,7 +193,7 @@ Link video: https://www.youtube.com/watch?v=RocFsxncfDY
 06.-Pulsar Icono + para crear nueva Propiedad  
 07.-En etiqueta digitar Giro  
 08.-En codigo digitar giro  
-09.-En tipo digitar varchar(200)  
+09.-En tipo digitar varchar(100)  
 10.-Pulsar en Añadir  
 
 ### 13.-Crear propiedad Dirección
