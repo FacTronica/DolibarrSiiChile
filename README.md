@@ -81,10 +81,11 @@
   
 ## 04.-Crear el Objeto Contribuyente en el Módulo Dolibarr SII Chile
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
-02.-Seleccionar el módulo SII Chile  
+02.-Seleccionar el módulo Factronica
 03.-Pulsar en Objetos  
 04.-Pulsar en + Nuevo Objeto  
 05.-En clave de objeto digitar Contribuyente  
+06.-Poner ticket en Quiero administrar los permisos en este objeto
 07.-Pulsar Generar Código  
 08.-Click en el objeto Contribuyente  
 09.-Eliminar la propiedad qty  
