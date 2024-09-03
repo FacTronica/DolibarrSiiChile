@@ -120,7 +120,7 @@ Link Video: https://www.youtube.com/watch?v=GtdIF310izk
 08.-En codigo digitar numres  
 09.-En tipo digitar integer(3)  
 10.-Pulsar en Añadir o Create  
-Link Video: https://youtu.be/h_O7cTAecNQ
+Link Video: https://www.youtube.com/watch?v=h_O7cTAecNQ&
 
 ### 07.-Crear propiedad Código de Actividad
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
