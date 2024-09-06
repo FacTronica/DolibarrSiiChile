@@ -160,7 +160,7 @@ Link video: https://www.youtube.com/watch?v=cqEqbgoY_u0
 08.-En codigo digitar direccion_regional  
 09.-En tipo digitar varchar(20)  
 10.-Pulsar en Añadir  
-Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1ls)
+Link video: https://www.youtube.com/watch?v=Mq-Yttdd1ls
 
 ### 10.-Crear propiedad Rut Representante Legal
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
@@ -173,6 +173,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 08.-En codigo digitar rut_replegal  
 09.-En tipo digitar varchar(10)  
 10.-Pulsar en Añadir  
+Link video: https://youtu.be/_PMPYeOLUoA
 
 ### 11.-Crear propiedad Razón Social
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
@@ -185,6 +186,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 08.-En codigo digitar razon_social  
 09.-En tipo digitar varchar(100)  
 10.-Pulsar en Añadir  
+Link video: https://youtu.be/V2I_kbTqUZw
 
 ### 12.-Crear propiedad Giro
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
@@ -197,6 +199,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 08.-En codigo digitar giro  
 09.-En tipo digitar varchar(100)  
 10.-Pulsar en Añadir  
+Link video: https://youtu.be/CxeHLe_wUq4
 
 ### 13.-Crear propiedad Dirección
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
@@ -209,6 +212,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 08.-En codigo digitar direccion  
 09.-En tipo digitar varchar(200)  
 10.-Pulsar en Añadir  
+Link video: https://youtu.be/7hWxAryYdS0
 
 ### 14.-Crear propiedad Ciudad
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
@@ -221,6 +225,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 08.-En codigo digitar ciudad  
 09.-En tipo digitar varchar(100)  
 10.-Pulsar en Añadir  
+Link video: https://youtu.be/bMqNh36Nfx0
 
 ## 16.-Crear Objeto Certificado Digital
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
@@ -231,6 +236,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 06.-Poner ticket en Quiero administrar los permisos en este objeto  
 07.-Pulsar Generar Código  
 08.-Click en el objeto Certificado  
+Link video: 
 
 ### 17.-Eliminar propiedades no requeridas
 01.-Eliminar la propiedad qty  
@@ -240,6 +246,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 05.-Eliminar la propiedad status  
 06.-Eliminar la propiedad label  
 07.-Eliminar la propiedad ref  
+Link video: 
 
 ### 18.-Agregar Atributo módulo  al objeto Certificado
 01.-Pulsar en +  
@@ -247,6 +254,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 03.-En código digitar modulo  
 04.-En tipo digitar text  
 05.-Finalmente Guardar  
+Link video: 
 
 ### 19.-Agregar Atributo Exponente  al objeto Certificado
 01.-Pulsar en +  
@@ -254,6 +262,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 03.-En código digitar exponente  
 04.-En tipo digitar text  
 05.-Finalmente Guardar  
+Link video: 
 
 ### 20.-Agregar Atributo cert_x509 al objeto Certificado
 01.-Pulsar en +  
@@ -261,6 +270,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 03.-En código digitar cert_x509  
 04.-En tipo digitar text  
 05.-Finalmente Guardar  
+Link video: 
 
 ### 21.-Agregar Atributo PrivKey al objeto Certificado
 01.-Pulsar en +  
@@ -268,6 +278,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 03.-En código digitar privkey_sinpass    
 04.-En tipo digitar text  
 05.-Finalmente Guardar  
+Link video: 
 
 ## 22.-Crear Objeto Timbraje de Folios CAF
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
@@ -278,6 +289,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 06.-Poner ticket en Quiero administrar los permisos en este objeto  
 07.-Pulsar Generar Código  
 08.-Click en el objeto Timbrajes  
+Link video: 
 
 ### 23.-Agregar Atributo rut_emisor
 01.-Pulsar en +  
@@ -285,6 +297,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 03.-En código digitar rut_emisor  
 04.-En tipo digitar varchar(12)  
 05.-Finalmente Guardar  
+Link video: 
 
 ### 24.-Agregar Atributo razonsocial_emisor
 01.-Pulsar en +  
@@ -292,6 +305,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 03.-En código digitar razonsocial_emisor    
 04.-En tipo digitar varchar(200)  
 05.-Finalmente Guardar  
+Link video: 
 
 ### 25.-Agregar Atributo Tipo DTE
 01.-Pulsar en +  
@@ -299,6 +313,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 03.-En código digitar tipo_documento    
 04.-En tipo digitar varchar(10)  
 05.-Finalmente Guardar  
+Link video: 
 
 ### 26.-Agregar Atributo Folio Desde
 01.-Pulsar en +  
@@ -306,6 +321,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 03.-En código digitar folio_desde    
 04.-En tipo digitar integer  
 05.-Finalmente Guardar  
+Link video: 
 
 ### 27.-Agregar Atributo Folio Hasta
 01.-Pulsar en +  
@@ -313,6 +329,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 03.-En código digitar folio_hasta    
 04.-En tipo digitar integer  
 05.-Finalmente Guardar  
+Link video: 
 
 ### 28.-Agregar Atributo Fecha Autorización
 01.-Pulsar en +  
@@ -320,6 +337,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 03.-En código digitar fecha_autorizacion    
 04.-En tipo digitar varchar(10)  
 05.-Finalmente Guardar  
+Link video: 
 
 ### 29.-Agregar Atributo Módulo
 01.-Pulsar en +  
@@ -327,6 +345,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 03.-En código digitar modulo    
 04.-En tipo digitar text  
 05.-Finalmente Guardar  
+Link video: 
 
 ### 30.-Agregar Atributo Exponente
 01.-Pulsar en +  
@@ -334,6 +353,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 03.-En código digitar exponente    
 04.-En tipo digitar text  
 05.-Finalmente Guardar  
+Link video: 
 
 ### 31.-Agregar Atributo Indice
 01.-Pulsar en +  
@@ -341,6 +361,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 03.-En código digitar indice    
 04.-En tipo digitar text  
 05.-Finalmente Guardar  
+Link video: 
 
 ### 32.-Agregar Atributo Firma
 01.-Pulsar en +  
@@ -348,6 +369,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 03.-En código digitar firma    
 04.-En tipo digitar text  
 05.-Finalmente Guardar  
+Link video: 
 
 ### 33.-Agregar Atributo Llave Pública
 01.-Pulsar en +  
@@ -355,6 +377,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 03.-En código digitar llave_publica    
 04.-En tipo digitar text  
 05.-Finalmente Guardar  
+Link video: 
 
 ### 34.-Agregar Atributo Llave Privada
 01.-Pulsar en +  
@@ -362,6 +385,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 03.-En código digitar llave_privada   
 04.-En tipo digitar text  
 05.-Finalmente Guardar  
+Link video: 
 
 ### 35.-Para Activar módulo  
 01.-En el creador de módulos  
@@ -369,6 +393,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 03.-Apagar el módulo Factronica  
 04.-Activar el módulo Factronica  
 05.-En este último paso se debería haber creado la tabla para timbrajes  
+Link video: 
 
 ### 36.-Eliminar propiedades no utilizadas
 01.-Click en el objeto Timbrajes  
@@ -379,6 +404,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 06.-Eliminar la propiedad fk_soc  
 07.-Eliminar la propiedad status  
 08.-Eliminar la propiedad description  
+Link video: 
 
 ## 36.-Actualizar módulo Factura
 01.-Copiar los archivos en la ruta  
@@ -388,6 +414,7 @@ Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1
 06.-htdocs/compta/facture/funciones.php  
 07.-htdocs/compta/facture/configuracion.php  
 08.-htdocs/compta/facture/card.php  
+Link video: 
  
 
 
