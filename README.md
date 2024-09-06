@@ -160,6 +160,7 @@ Link video: https://www.youtube.com/watch?v=cqEqbgoY_u0
 08.-En codigo digitar direccion_regional  
 09.-En tipo digitar varchar(20)  
 10.-Pulsar en Añadir  
+Link video: [https://www.youtube.com/](https://www.youtube.com/watch?v=Mq-Yttdd1ls)
 
 ### 10.-Crear propiedad Rut Representante Legal
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
