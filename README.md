@@ -120,7 +120,7 @@ Link Video: https://www.youtube.com/watch?v=5HCaoELj0Qw
 06.-Pulsar Icono + para crear nueva Propiedad  
 07.-En etiqueta digitar Número Resolución  
 08.-En codigo digitar numres  
-09.-En tipo digitar integer(3)  
+09.-En tipo digitar integer
 10.-Pulsar en Añadir o Create  
 Link Video: https://www.youtube.com/watch?v=h_O7cTAecNQ&
 
@@ -409,12 +409,12 @@ Link video:
 
 ## 36.-Actualizar módulo Factura
 01.-Copiar los siguientes archivos en la ruta  htdocs/compta/facture  
-02.-Link [archivos api cliente](https://github.com/FacTronica/DolibarrSiiChile/tree/main/htdocs/compta/facture)  
+02.-Los archivos api cliente [Ver Archivos](https://github.com/FacTronica/DolibarrSiiChile/tree/main/htdocs/compta/facture)  
 03.-htdocs/compta/facture/enviar_json.php  
 05.-htdocs/compta/facture/crearpayload.php  
 06.-htdocs/compta/facture/funciones.php  
 07.-htdocs/compta/facture/configuracion.php  
-08.-htdocs/compta/facture/card.php
+08.-htdocs/compta/facture/card.php  
 Link video: 
  
 
