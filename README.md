@@ -22,7 +22,8 @@
 08.-En código digitar trackid  
 09.-Poner ticket en Puede editarse siempre  
 10.-Finalmente Guardar  
-  
+11.-  
+
 ### Tipo DTE:
 01.-Pulsar simbolo + para crear un nuevo Atributo  
 02.-En clave Digitar Tipo DTE  
