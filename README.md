@@ -408,8 +408,8 @@ Link video:
 Link video: 
 
 ## 36.-Actualizar módulo Factura
-01.-Copiar los archivos en la ruta  
-02.-htdocs/compta/facture  
+01.-Copiar los siguientes archivos en la ruta  htdocs/compta/facture
+02.-Los archivos api cliente [Ver Archivos](https://github.com/FacTronica/DolibarrSiiChile/tree/main/htdocs/compta/facture)  
 03.-htdocs/compta/facture/enviar_json.php  
 05.-htdocs/compta/facture/crearpayload.php  
 06.-htdocs/compta/facture/funciones.php  
