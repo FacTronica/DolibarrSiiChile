@@ -418,7 +418,11 @@ Link video:
 07.-htdocs/compta/facture/configuracion.php  
 08.-htdocs/compta/facture/card.php  
 Link video: 
- 
+
+ ## 37.-Archivo de configuraciónn
+ En el archivo configuracion.php deb definir la url del endpoint donde se encuentra el servidor de facturación.  
+ La url para pruebas es: https://servidor9.sistemafactronica.cl/api/factronica_creadte_facturas/index.php  
+ EL token de acceso se debe solicitar por correo a contacto@factronica.cl  
 
 
 
