@@ -1,4 +1,6 @@
-# INSTALACIÓN MÓDULO DOLITRONICA SII CHILE
+# DOLIBARR - MÓDULO SII CHILE
+Este módulo permite realizar la integración de su Dolibarr con el SII Chile.  
+En este instructivo están los pasos a seguir para realizar la integración.  
 
 ## INDICE
 01.-AGREGAR ATRIBUTOS COMPLEMENTARIOS A LA FACTURA.  
