@@ -24,7 +24,6 @@ En este instructivo están los pasos a seguir para realizar la integración.
 08.-En código digitar trackid  
 09.-Poner ticket en Puede editarse siempre  
 10.-Finalmente Guardar  
-11.-  
 
 ### Tipo DTE:
 01.-Pulsar simbolo + para crear un nuevo Atributo  
@@ -84,7 +83,7 @@ En este instructivo están los pasos a seguir para realizar la integración.
   
 ## 04.-Crear el Objeto Contribuyente en el Módulo Dolibarr SII Chile
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
-02.-Seleccionar el módulo Factronica
+02.-Seleccionar el módulo Factronica  
 03.-Pulsar en Objetos  
 04.-Pulsar en + Nuevo Objeto  
 05.-En clave de objeto digitar Contribuyente  
@@ -230,9 +229,9 @@ Link video: https://youtu.be/7hWxAryYdS0
 10.-Pulsar en Añadir  
 Link video: https://youtu.be/bMqNh36Nfx0
 
-## 16.-Crear Objeto Certificado Digital
+## 15.-Crear Objeto Certificado Digital
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
-02.-Seleccionar el módulo SII Chile  
+02.-Seleccionar el módulo Factronica 
 03.-Pulsar en Objetos  
 04.-Pulsar en + Nuevo Objeto  
 05.-En clave de objeto digitar Certificado  
@@ -241,7 +240,7 @@ Link video: https://youtu.be/bMqNh36Nfx0
 08.-Click en el objeto Certificado  
 Link video: 
 
-### 17.-Eliminar propiedades no requeridas
+### 16.-Eliminar propiedades no requeridas
 01.-Eliminar la propiedad qty  
 02.-Eliminar la propiedad amount  
 03.-Eliminar la propiedad description  
@@ -251,7 +250,7 @@ Link video:
 07.-Eliminar la propiedad ref  
 Link video: 
 
-### 18.-Agregar Atributo módulo  al objeto Certificado
+### 17.-Agregar Atributo módulo  al objeto Certificado
 01.-Pulsar en +  
 02.-En etiqueta digitar Módulo  
 03.-En código digitar modulo  
@@ -259,7 +258,7 @@ Link video:
 05.-Finalmente Guardar  
 Link video: 
 
-### 19.-Agregar Atributo Exponente  al objeto Certificado
+### 18.-Agregar Atributo Exponente  al objeto Certificado
 01.-Pulsar en +  
 02.-En etiqueta digitar Exponente  
 03.-En código digitar exponente  
@@ -267,7 +266,7 @@ Link video:
 05.-Finalmente Guardar  
 Link video: 
 
-### 20.-Agregar Atributo cert_x509 al objeto Certificado
+### 10.-Agregar Atributo cert_x509 al objeto Certificado
 01.-Pulsar en +  
 02.-En etiqueta digitar LLave Pública  
 03.-En código digitar cert_x509  
@@ -275,7 +274,7 @@ Link video:
 05.-Finalmente Guardar  
 Link video: 
 
-### 21.-Agregar Atributo PrivKey al objeto Certificado
+### 20.-Agregar Atributo PrivKey al objeto Certificado
 01.-Pulsar en +  
 02.-En etiqueta digitar LLave Privada  
 03.-En código digitar privkey_sinpass    
@@ -283,7 +282,7 @@ Link video:
 05.-Finalmente Guardar  
 Link video: 
 
-## 22.-Crear Objeto Timbraje de Folios CAF
+## 21.-Crear Objeto Timbraje de Folios CAF
 01.-Pulsar el icono Módulo y Generador de Aplicaciones  
 02.-Seleccionar el módulo SII Chile  
 03.-Pulsar en Objetos  
@@ -294,7 +293,7 @@ Link video:
 08.-Click en el objeto Timbrajes  
 Link video: 
 
-### 23.-Agregar Atributo rut_emisor
+### 22.-Agregar Atributo rut_emisor
 01.-Pulsar en +  
 02.-En etiqueta digitar Rut Emisor  
 03.-En código digitar rut_emisor  
@@ -302,7 +301,7 @@ Link video:
 05.-Finalmente Guardar  
 Link video: 
 
-### 24.-Agregar Atributo razonsocial_emisor
+### 23.-Agregar Atributo razonsocial_emisor
 01.-Pulsar en +  
 02.-En etiqueta digitar Razón Social  
 03.-En código digitar razonsocial_emisor    
@@ -310,7 +309,7 @@ Link video:
 05.-Finalmente Guardar  
 Link video: 
 
-### 25.-Agregar Atributo Tipo DTE
+### 24.-Agregar Atributo Tipo DTE
 01.-Pulsar en +  
 02.-En etiqueta digitar Tipo DTE  
 03.-En código digitar tipo_documento    
@@ -318,7 +317,7 @@ Link video:
 05.-Finalmente Guardar  
 Link video: 
 
-### 26.-Agregar Atributo Folio Desde
+### 25.-Agregar Atributo Folio Desde
 01.-Pulsar en +  
 02.-En etiqueta digitar Folio Desde  
 03.-En código digitar folio_desde    
@@ -326,7 +325,7 @@ Link video:
 05.-Finalmente Guardar  
 Link video: 
 
-### 27.-Agregar Atributo Folio Hasta
+### 26.-Agregar Atributo Folio Hasta
 01.-Pulsar en +  
 02.-En etiqueta digitar Folio Hasta  
 03.-En código digitar folio_hasta    
@@ -334,7 +333,7 @@ Link video:
 05.-Finalmente Guardar  
 Link video: 
 
-### 28.-Agregar Atributo Fecha Autorización
+### 27.-Agregar Atributo Fecha Autorización
 01.-Pulsar en +  
 02.-En etiqueta digitar Fecha Autorización  
 03.-En código digitar fecha_autorizacion    
@@ -342,7 +341,7 @@ Link video:
 05.-Finalmente Guardar  
 Link video: 
 
-### 29.-Agregar Atributo Módulo
+### 28.-Agregar Atributo Módulo
 01.-Pulsar en +  
 02.-En etiqueta digitar Módulo  
 03.-En código digitar modulo    
@@ -350,7 +349,7 @@ Link video:
 05.-Finalmente Guardar  
 Link video: 
 
-### 30.-Agregar Atributo Exponente
+### 29.-Agregar Atributo Exponente
 01.-Pulsar en +  
 02.-En etiqueta digitar Exponente  
 03.-En código digitar exponente    
@@ -358,7 +357,7 @@ Link video:
 05.-Finalmente Guardar  
 Link video: 
 
-### 31.-Agregar Atributo Indice
+### 30.-Agregar Atributo Indice
 01.-Pulsar en +  
 02.-En etiqueta digitar Indice  
 03.-En código digitar indice    
@@ -366,7 +365,7 @@ Link video:
 05.-Finalmente Guardar  
 Link video: 
 
-### 32.-Agregar Atributo Firma
+### 31.-Agregar Atributo Firma
 01.-Pulsar en +  
 02.-En etiqueta digitar Firma  
 03.-En código digitar firma    
@@ -374,7 +373,7 @@ Link video:
 05.-Finalmente Guardar  
 Link video: 
 
-### 33.-Agregar Atributo Llave Pública
+### 32.-Agregar Atributo Llave Pública
 01.-Pulsar en +  
 02.-En etiqueta digitar Llave Pública  
 03.-En código digitar llave_publica    
@@ -382,7 +381,7 @@ Link video:
 05.-Finalmente Guardar  
 Link video: 
 
-### 34.-Agregar Atributo Llave Privada
+### 33.-Agregar Atributo Llave Privada
 01.-Pulsar en +  
 02.-En etiqueta digitar Llave Privada  
 03.-En código digitar llave_privada   
@@ -390,7 +389,7 @@ Link video:
 05.-Finalmente Guardar  
 Link video: 
 
-### 35.-Para Activar módulo  
+### 34.-Para Activar módulo  
 01.-En el creador de módulos  
 02.-En el objeto Timbrajes pulsar Destruya la tabla  
 03.-Apagar el módulo Factronica  
@@ -398,7 +397,7 @@ Link video:
 05.-En este último paso se debería haber creado la tabla para timbrajes  
 Link video: 
 
-### 36.-Eliminar propiedades no utilizadas
+### 35.-Eliminar propiedades no utilizadas
 01.-Click en el objeto Timbrajes  
 02.-Eliminar la propiedad qty  
 03.-Eliminar la propiedad amount  
